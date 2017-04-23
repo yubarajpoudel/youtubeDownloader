@@ -5,8 +5,8 @@
 Copy the Perl Scipt file dwn.pl to your local machine
 
 
-	* Navigate to the location of the dwn.pl file
-	* Run the following command
+	1. Navigate to the location of the dwn.pl file
+	2. Run the following command
 
 ./dwn.pl "youtubevideo_url"
 
