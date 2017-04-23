@@ -34,7 +34,7 @@ my $retryTimes = 2;
 
 # Option: turn on DEBUG mode. Use this to reverse engineering this code if you are
 # making changes or you are building your own youtube download script.
-my $DEBUG=1;
+my $DEBUG=0;
 
 #################################################################
 
