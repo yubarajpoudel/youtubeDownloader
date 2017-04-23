@@ -1,10 +1,10 @@
 # Download youtube video with the script
 
-## To download the youtube video from cmd
+## To download the youtube video from Terminal
 
 Copy the Perl Scipt file dwn.pl to your local machine
-	* Navigate to the location of the dwn.pl file
-	* run the following command
+	*Navigate to the location of the dwn.pl file
+	*run the following command
 
 ./dwn.pl "youtubevideo_url"
 
